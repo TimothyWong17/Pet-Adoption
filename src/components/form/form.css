@@ -1,0 +1,76 @@
+.form {
+    background-color: #f2f2f2;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 550px;
+    padding: 20px;
+    width: 420px;
+    margin-bottom: 20px;
+    max-width: max-content;
+    margin: auto;
+
+}
+
+.input-multi-select {
+    width: 100%;
+    margin: 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.input-select-text {
+    width: 100%;
+    margin: 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.input-text {
+    width: 100%;
+    padding: 10px;
+    margin: 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+
+.slider-input-text {
+    width: 100%;
+    padding: 10px;
+    margin: 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.input-submit {
+    width: 100%;
+    background-color: #15172b;
+    color: white;
+    padding: 14px 20px;
+    margin: 20px 0px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form-message {
+	margin: 10px auto;
+	max-width: 460px;
+    text-align: center;
+}
+
+.submit-loading-spinner {
+    position: fixed;
+    top: 85%;
+    left: 47%;
+    padding: 30px;
+
+}
