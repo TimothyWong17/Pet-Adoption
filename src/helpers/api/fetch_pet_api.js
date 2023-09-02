@@ -1,6 +1,6 @@
 function fetchPetAPI(formState) {
-	const API_KEY = 'xOVOSlxdirrDHeMi7zL5Jio60W4V84hskzMzWRCIiZFe1hPjDP';
-	const SECRET_KEY = 'ziFfLLuslE6sD87nzk4jeSQvXp8EHsLQxpKUwIeh';
+	const API_KEY = 'sYUzbXi2CE8X3WgIhY4F8hwdy2gPbYdH8iCpX7iKQVA05RNGlH';
+	const SECRET_KEY = '3Gz3NZx1oMLLabO6CIiXWGmcZbRmF334t13VNzz4';
 
 
 	// formState.breed
